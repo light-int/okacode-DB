@@ -3,7 +3,6 @@
 		"id":1,
 		"nom":"MENDE",
 		"prenom":"Dimitri",
-		"desc":"Coach de la cohorte des developpeur Web",
 		"img":"https://lacastafiore.github.io/ecole241/okacode/images/Kakashi.jpg",
 		"link":"#"
 	},
@@ -11,7 +10,6 @@
 		"id":2,
 		"nom":"OBAME NZOGHO",
 		"prenom":"Billy Marc Paul",
-		"desc":"Tout ce qui est beau m'attire, j'aime donc la creativite, le travail, le code, et surtout la vie",
 		"img":"https://lacastafiore.github.io/ecole241/okacode/images/Billy.jpg",
 		"link":"https://light-int.github.io/ecole241/profil/index.html"
 	},
@@ -19,7 +17,6 @@
 		"id":3,
 		"nom":"MEBALE",
 		"prenom":"Noel",
-		"desc":"Les clients ne vous mesurent pas à quel point vous avez essayé, ils vous mesurent sur ce que vous livrez",
 		"img":"https://lacastafiore.github.io/ecole241/okacode/images/Noel.jpg",
 		"link":"https://maestrodimateo.github.io/ecole241/profil/"
 	},
@@ -27,7 +24,6 @@
 		"id":4,
 		"nom":"KANGOUA",
 		"prenom":" Grace",
-		"desc":"Hey, I'm Grace, a Freelance Developper based in Libreville. I collaborate with inspiring people, businesses & start-ups to shape and conceive their digital projects.",
 		"img":"https://lacastafiore.github.io/ecole241/okacode/images/Grace.jpg",
 		"link":"https://lacastafiore.github.io/ecole241/profil/"
 	},
@@ -35,7 +31,6 @@
 		"id":5,
 		"nom":"MAGANGA BOULINGUI",
 		"prenom":"Hamilton Daryl",
-		"desc":"Je valide avec le client que le projet correspond bien à ses attentes. et voir si il y'a des modifications à effectuer. mise à la disposition du publique cible",
 		"img":"https://lacastafiore.github.io/ecole241/okacode/images/Hamilton.jpg",
 		"link":"https://hamiltondarryl.github.io/ecole241/profil/"
 	},
@@ -43,7 +38,6 @@
 		"id":6,
 		"nom":"NZE BITOME",
 		"prenom":"Leticia Pauline",
-		"desc":"Le succès d’une vie dépend de la capacité à oublier ce qui n’est pas approprié au moment présent.",
 		"img":"https://lacastafiore.github.io/ecole241/okacode/images/Leticia.jpg",
 		"link":"https://nzebitome.github.io/ecole241/profil/"
 	},
@@ -51,7 +45,6 @@
 		"id":7,
 		"nom":"BOUGNOU",
 		"prenom":"Boris",
-		"desc":"La créativité n'a pas de limite. Toujours en pleine innovation. J'explore les nouveaux outils et me mets à jour constamment.",
 		"img":"https://lacastafiore.github.io/ecole241/okacode/images/Boris.jpg",
 		"link":"https://ribelson.github.io/ecole241/profil/"
 	},
@@ -59,7 +52,6 @@
 		"id":8,
 		"nom":"MOUNDZIEGOU",
 		"prenom":"GABIN",
-		"desc":"Developpeur Web fullstack",
 		"img":"https://lacastafiore.github.io/ecole241/okacode/images/Gabin.jpg",
 		"link":"https://steeven1995.github.io/ecole241/profil/"
 	},
@@ -67,7 +59,6 @@
 		"id":9,
 		"nom":"MOUWENDZI LEGANDZA",
 		"prenom":"Rick Axel",
-		"desc":"En ce moment, j'apprends la programmation à l'école 241. Une école qui forme les développeurs en 7 mois; avec une méthode de formation qui est extraordinaire ce qui fera de moi un codeur extraordinaire.",
 		"img":"https://lacastafiore.github.io/ecole241/okacode/images/Axel.jpg",
 		"link":"https://mlraleader.github.io/ecole241/profil/index.html"
 	},
@@ -75,7 +66,6 @@
 		"id":10,
 		"nom":"BOUMYS",
 		"prenom":"Jean-Wilson",
-		"desc":"Bonjour, je suis Jean-Wilson, apprenant à l'école 241. Passionné par le numérique, j'ai alors choisi de suivre une formation pointue dans particulièrement dans le développement web.",
 		"img":"https://lacastafiore.github.io/ecole241/okacode/images/Boumys.jpg",
 		"link":"http://jboumys.github.io/ecole241/profil/"
 	},
@@ -83,7 +73,6 @@
 		"id":11,
 		"nom":"PEKE CAPITAINE",
 		"prenom":"Didier",
-		"desc":"okacode",
 		"img":"https://lacastafiore.github.io/ecole241/okacode/images/Didier.jpg",
 		"link":"#"
 	},
@@ -91,7 +80,6 @@
 		"id":12,
 		"nom":"KELBY",
 		"prenom":"DIN",
-		"desc":"People are not what they are; they are what they do",
 		"img":"https://lacastafiore.github.io/ecole241/okacode/images/Din.jpg",
 		"link":"https://dinkelby7.github.io/ecole241/profil/"
 	},
@@ -99,7 +87,6 @@
 		"id":13,
 		"nom":"ITOUTOU",
 		"prenom":"Berny Francois",
-		"desc":"Je m'appelle Itoutou François, je suis un passioné du code. Tout commence par ma passion pour le monde de technologie; passion qui m'a conduit à suivre une formation en developpement Web à l'ecole241.",
 		"img":"https://lacastafiore.github.io/ecole241/okacode/images/Francois.jpg",
 		"link":"https://bernyfrancois.github.io/ecole241/profil/"
 	},
@@ -107,7 +94,6 @@
 		"id":14,
 		"nom":"NGOUA",
 		"prenom":"Ismael",
-		"desc":"Je crée des designs et des illustrations pour plusieurs entreprises. Freelance, je suis front-end à mes heures perdues.",
 		"img":"https://lacastafiore.github.io/ecole241/okacode/images/Ismael.jpg",
 		"link":"https://ismael8.github.io/ecole241/profil/"
 	},
@@ -115,7 +101,6 @@
 		"id":15,
 		"nom":"TCHITOMBI KOKOLO",
 		"prenom":"Ivan Fanck Iavich",
-		"desc":"Are you looking for a web expert? look no more I'm a Web Developer & Designer ",
 		"img":"https://lacastafiore.github.io/ecole241/okacode/images/Ivan.jpg",
 		"link":"https://iavich.github.io/ecole241/profil/"
 	},
@@ -123,7 +108,6 @@
 		"id":16,
 		"nom":"MOUDOUNGA",
 		"prenom":"Joe Maurion",
-		"desc":"Je suis MOUNDOUNGA Joe Maurio jeune Dévéloppeur Web à l'école 241. Passioné du code, j'ai l'humble avis de penser que le code est un atout idéal pour nous aider à apporter des solutions aux problèmes que nous pouvons rencontrer dans la vie de tous les jours et même plus encore.",
 		"img":"https://lacastafiore.github.io/ecole241/okacode/images/Joe.jpg",
 		"link":"https://joemaurio.github.io/ecole241/profil/"
 	},
@@ -131,7 +115,6 @@
 		"id":17,
 		"nom":"MBELA",
 		"prenom":"Kevinn Donavann",
-		"desc":"okacode",
 		"img":"https://lacastafiore.github.io/ecole241/okacode/images/Kevinn.jpg",
 		"link":"https://mbela-kevinn98.github.io/ecole241/profil/"
 	},
@@ -139,7 +122,6 @@
 		"id":18,
 		"nom":"KOUHOUINIKINA",
 		"prenom":"Laurion Dareich",
-		"desc":"okacode",
 		"img":"https://lacastafiore.github.io/ecole241/okacode/images/Laurion.jpg",
 		"link":"#"
 	},
@@ -147,7 +129,6 @@
 		"id":19,
 		"nom":"EBANETH",
 		"prenom":"Pierre Darel",
-		"desc":"okacode",
 		"img":"https://lacastafiore.github.io/ecole241/okacode/images/Pierre.jpg",
 		"link":"https://darel14.github.io/ecole241/profil/"
 	},
@@ -155,7 +136,6 @@
 		"id":20,
 		"nom":"SISSO",
 		"prenom":"Albert Wilfrid",
-		"desc":"J'adore trouver des solutions à plusieurs challenges. ",
 		"img":"https://lacastafiore.github.io/ecole241/okacode/images/Sisso.jpg",
 		"link":"https://albert241.github.io/ecole241/profil/"
 	},
@@ -163,7 +143,6 @@
 		"id":21,
 		"nom":"NOUBISSI",
 		"prenom":"Yannick",
-		"desc":"Bonjour je m'appelle NOUBISSI YANNICK DEVELOPPEUR WEB-MOBILE-DESIGNER-PHOTOGRAPHE.",
 		"img":"https://lacastafiore.github.io/ecole241/okacode/images/Yannick.jpg",
 		"link":"https://elieyan.github.io/ecole241/profil/"
 	},
@@ -171,7 +150,6 @@
 		"id":22,
 		"nom":"MOUSSAVOU",
 		"prenom":"Line Veika",
-		"desc":"okacode",
 		"img":"https://lacastafiore.github.io/ecole241/okacode/images/Line.jpg",
 		"link":"https://lineveika.github.io/ecole241/profil/"
 	}
