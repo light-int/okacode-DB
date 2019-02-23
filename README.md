@@ -46,8 +46,8 @@ pour recuperer tous les profiles nous allons faire une iteration a la methode **
        //Debut de la requete
        $.getJSON('https://my-json-server.typicode.com/light-int/okacode-DB/', function(data) {
         $.each(data , function (index, value){
-          el.append('<div class="col-3"><div class="card"><img class="card-img-top" src="https://imgplaceholder.com/640x540" alt=""><div class="card-body"><h5 class="card-title">'+value.username+'</h5><p class="card-text">'+value.accountType+'</p><a name="" id="" class="btn btn-primary" href="profil.html?c='+value.id+'" role="button">voir</a></div></div></div>');
-          // console.log(index + ':' + value.first_name);
+          el.append('<div class="col-3"><div class="card"><img class="card-img-top" src="https://imgplaceholder.com/640x540" alt=""><div class="card-body"><h5 class="card-title">'+value.nom+'</h5><p class="card-text">'+value.desc+'</p><a name="" id="" class="btn btn-primary" href="profil.html?c='+value.id+'" role="button">voir</a></div></div></div>');
+          // console.log(index + ':' + value);
           });
           console.log(window.location);
        });
