@@ -28,7 +28,7 @@ _my-json-server.typicode.com/light-int/okacode-DB/_
        
 Et pour avoir un seul profil
 
-_my-json-server.typicode.com/light-int/okacode-DB/1_ 
+_my-json-server.typicode.com/light-int/okacode-DB/profile/1_ 
 
         {
         "id":1,
@@ -44,12 +44,49 @@ pour recuperer tous les profiles nous allons faire une iteration a la methode **
        //pointeur de la div qui a l'id all
        var el = $('#all');
        //Debut de la requete
-       $.getJSON('https://my-json-server.typicode.com/light-int/okacode-DB/', function(data) {
-        $.each(data , function (index, value){
+       $.getJSON('https://my-json-server.typicode.com/light-int/okacode-DB/', function(data) 
+       {
+        $.each(data , function (index, value)
+	{
           el.append('<div class="col-3"><div class="card"><img class="card-img-top" src="https://imgplaceholder.com/640x540" alt=""><div class="card-body"><h5 class="card-title">'+value.nom+'</h5><p class="card-text">'+value.desc+'</p><a name="" id="" class="btn btn-primary" href="profil.html?c='+value.id+'" role="button">voir</a></div></div></div>');
-          // console.log(index + ':' + value);
           });
-          console.log(window.location);
        });
        
+ Voir la [demo](https://my-json-server.typicode.com/light-int/hackaton-DB/user)
+ 
+ #### Es6
+ 
+        fetch('https://my-json-server.typicode.com/light-int/okacode-DB/profile')
+	  .then(response => {
+	    if (response.ok) {
+	      return Promise.resolve(response);
+	    }
+	    else {
+	      return Promise.reject(new Error("Une erreur c'est produite")); 
+	    }
+	  })
+	  .then(response => response.json())
+	  .then(data => {
+
+	    data.forEach(function(item,index){
+	    let donnee = `
+	    <article class="col-sm-6 col-md-3 box features-item thumbnail-100" 
+	    onclick="mod(${item.id})" style="height:548.75px !important;">
+		<img class="features-img" 
+		src="${item.img}" 
+		alt="${item.nom}" 
+		data-description="${item.desc}" 
+		data-prenom="${item.link}">
+		<span id="item-name-caption" class="item-name-caption hidden-xs">
+		${item.nom}
+		</span>
+		<h3>${item.nom}</h3>
+	    </article>`;
+	    $('#all').append(donnee);
+	    })
+	  })
+	  .catch(function(error) {
+	    console.log(`Error: ${error.message}`);
+	  });
+
  Voir la [demo](https://my-json-server.typicode.com/light-int/hackaton-DB/user)
